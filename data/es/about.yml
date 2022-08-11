@@ -1,0 +1,15 @@
+enable  : true
+title   : SALVAGUARDAR BIODIVERSITY AND CLIMATE RESILIENCE
+description: >
+  SABIOMA es una colaboración internacional entre Argentina y el Reino Unido, que estudia "nature-based solutions to tackle the challenge of biodiversity loss, climate change and social wellbeing". Nuestros principales objetivos son desarrollar conocimiento, generar capacitación y definir acciones tangibles para la conservación, restoración y el manejo sostenible de land and the environment. A través de nuestras actividades de investigación, nuestro consorcio se centra en proporcionar conocimientos a los productores de alimentos, a los responsables de la formulación de políticas de manejo, a los administradores de tierras y al público, que necesitan mejores herramientas basadas en evidencia para apoyar la toma de decisiones necesarias para lograr resultados sostenibles.
+
+#image   : images/about/planning.jpg
+
+aboutItem:
+  - title : Financiación
+    description: > 
+      El proyecto SABIOMA está financiado por el NERC and Defra Global Centre on Biodiversity for Climate (GCBC).
+
+  # - title : Meet The Energy
+  #   description: >
+  #     Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.

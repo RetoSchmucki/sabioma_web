@@ -1,0 +1,23 @@
+[home]
+other = "Inicio"
+
+[details]
+other = "Más información"
+
+[languages]
+other = "ES"
+
+[investigator]
+other = "Investigadors"
+
+[location]
+other = "Área de Estudio"
+
+[partners]
+other = "Socios"
+
+[funding]
+other = "Financiación"
+
+[reading]
+other = "Continuar Leyendo"

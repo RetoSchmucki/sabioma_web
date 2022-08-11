@@ -1,0 +1,15 @@
+enable  : true
+title   : Safeguarding Pollination Services in a Changing World
+description: >
+  SABIOMA is an international partnership between Argentina and the UK, working on nature-based solutions to tackle the challenge of biodiversity loss, climate change and social wellbeing. Our main objectives are to develop knowledge, build capacity and define tangible actions for conservation, restauration and sustainable use of land and the environment. Through our research activities, our consortium focus on providing knowledge to food producers, policy-makers, land managers and the public who need better evidence based tools to support decision making for sustainable outcomes.
+
+#image : images/about/planning.jpg
+
+aboutItem:
+  - title : Funding
+    description: > 
+      The SABIOMA project is funded under the NERC and Defra Global Centre on Biodiversity for Climate (GCBC).
+
+  # - title : Meet The Energy
+  #   description: >
+  #     Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.

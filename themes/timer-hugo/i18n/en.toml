@@ -1,0 +1,23 @@
+[home]
+other = "Home"
+
+[details]
+other = "Learn More"
+
+[languages]
+other = "EN"
+
+[investigator]
+other = "Investigators"
+
+[location]
+other = "Study Area"
+
+[partners]
+other = "Partners"
+
+[funding]
+other = "Funding"
+
+[reading]
+other = "Continue Reading"

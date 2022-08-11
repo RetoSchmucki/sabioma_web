@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on SURPASS2-PT</title>
+    <link>https://retoschmucki.github.io/surpass2web/pt/blog/</link>
+    <description>Recent content in Blog on SURPASS2-PT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Sun, 15 Jul 2018 12:32:37 +0600</lastBuildDate><atom:link href="https://retoschmucki.github.io/surpass2web/pt/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ciência cidadã e polinizadores da América do Sul</title>
+      <link>https://retoschmucki.github.io/surpass2web/pt/blog/citizenscience/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://retoschmucki.github.io/surpass2web/pt/blog/citizenscience/</guid>
+      <description>O Livro Ciência cidadã e polinizadores da América do Sul nos proporciona, por meio de uma linguagem clara, direta e acessível, uma leitura útil e prazerosa. É uma obra original que reúne pela primeira vez, em um mesmo volume, conhecimentos robustos sobre polinizadores e experiências exitosas de projetos de ciência cidadã conduzidas na América do Sul, com foco nessa biodiversidade. Blandina Felipe Viana, Universidade Federal da Bahia
+A versão digital deste livro está disponível gratuitamente - Livro (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Bioblitz Challenge - Chile</title>
+      <link>https://retoschmucki.github.io/surpass2web/pt/blog/chile_bioblitz/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://retoschmucki.github.io/surpass2web/pt/blog/chile_bioblitz/</guid>
+      <description>November - Bioblitz Challenge During November 2020 the Chilean members of SURPASS have launched a Bioblitz to promote the use of iNaturalist across the country. The aim of this initiative is to increase citizen awareness of pollinators, as well as the amount of data on this group of species in the iNaturalist Platform. Observations that are of good quality and their species is identified are automatically inserted into the GBIF Platform.</description>
+    </item>
+    
+    <item>
+      <title>A Century of Bee Data</title>
+      <link>https://retoschmucki.github.io/surpass2web/pt/blog/chile_gbif/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://retoschmucki.github.io/surpass2web/pt/blog/chile_gbif/</guid>
+      <description>Mobilizing Biodiversity Data Over the last year, our partners in Chile have mobilized, standardized, and digitized a century of bee data in Chile. With this effort, our colleagues have secured 100 years of biological recording for generations and made it available to the world via the GBIF portal.
+This database presents the largest dataset of Chilean wild bees (Apoidea) with 36,010 records comprising over 40 years of data. This collection is held by the Pontificia Universidad Catolica de Valparaiso, being the largest in the country.</description>
+    </item>
+    
+    <item>
+      <title>PoMS no exterior</title>
+      <link>https://retoschmucki.github.io/surpass2web/pt/blog/poms_ff/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://retoschmucki.github.io/surpass2web/pt/blog/poms_ff/</guid>
+      <description>Contando polinizadores No âmbito do projeto SURPASS2 (Safeguarding pollination services in a changing world: theory into practice), financiado pelo NERC, que reúne pesquisadores do Reino Unido, Argentina, Brasil e Chile, implementamos pela primeira vez a metodologia de contagem FIT no Chile.
+Através de uma colaboração com o projeto regional EXPLORA da Região de La Araucanía, no sul do Chile, adaptamos o esquema de monitoramento de polinizadores desenvolvido no Reino Unido para a América do Sul.</description>
+    </item>
+    
+  </channel>
+</rss>

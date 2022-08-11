@@ -1,0 +1,204 @@
+baseURL = "https://retoschmucki.github.io/sabioma_web/"
+languageCode = "en"
+title = "SABIOMA"
+theme = "timer-hugo"
+publishDir = "docs"
+canonifyURLs = true
+
+[blackfriday]
+  fractions = false
+
+## NEW
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "en"
+
+# Gestion des langues : EN / FR / NL / DE
+[[Params.listeLangues]]
+    code = "en"
+[[Params.listeLangues]]
+    code = "es"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+# Site Menus
+#[menu]
+#    # Navbar Menus
+#    [[menu.nav]]
+#        name    = "Home"
+#        url     = "/"
+#        weight  = 1
+#    [[menu.nav]]
+#        name    = "About"
+#        url     = "/about/"
+#        weight  = 2
+#    [[menu.nav]]
+#        name    = "Research"
+#        url     = "/research/"
+#        weight  = 3
+#    [[menu.nav]]
+#        name    = "Blog"
+#        url     = "/blog/"
+#        weight  = 4
+#    [[menu.nav]]
+#        name    = "Contact"
+#        url     = "/contact/"
+#        weight  = 5
+
+[Languages]
+    [Languages.en]
+        languageCode = "en"
+        languageName = "English"
+        languageFlag = "EN"
+        dateFormat = "January 2, 2006"
+        weight = 1
+    [Languages.es]
+        languageCode = "es"
+        languageName = "Español"
+        languageFlag = "ES"
+        title = "SABIOMA-ES"
+        weight = 2
+
+        [[Languages.en.menu.nav]]
+            name    = "Home"
+            url     = ""
+            weight  = 1
+        [[Languages.en.menu.nav]]
+            name    = "About"
+            url     = "about/"
+            weight  = 2
+        [[Languages.en.menu.nav]]
+            name    = "Research"
+            url     = "research/"
+            weight  = 3
+        [[Languages.en.menu.nav]]
+            name    = "Blog"
+            url     = "blog/"
+            weight  = 4
+#        [[Languages.en.menu.nav]]
+#            name    = "Publication"
+#            url     = "publication/"
+#           weight  = 4
+        [[Languages.en.menu.nav]]
+            name    = "Contact"
+            url     = "contact/"
+            weight  = 4
+
+       [[Languages.es.menu.nav]]
+            name    = "Inicio"
+            identifier = "home"
+            url     = "es/"
+            weight  = 1
+        [[Languages.es.menu.nav]]
+            name    = "Acerca de"
+            identifier = "about"
+            url     = "es/about/"
+            weight  = 2
+        [[Languages.es.menu.nav]]
+            name    = "Investigación"
+            identifier = "research"
+            url     = "es/research/"
+            weight  = 3
+        [[Languages.es.menu.nav]]
+            name    = "Blog"
+            url     = "es/blog/"
+            weight  = 4
+#        [[Languages.es.menu.nav]]
+#            name    = "Publicación"
+#            url     = "es/publication/"
+#            weight  = 4
+        [[Languages.es.menu.nav]]
+            name    = "Contacto"
+            identifier = "contact"
+            url     = "es/contact/"
+            weight  = 4
+
+# Banner Section
+    [Languages.en.params.banner]
+        enable  = true
+        bgImage = "images/slider_2.jpg"
+        heading = "SAFEGUARDING BIODIVERSITY AND CLIMATE RESILIENCE"
+        description = "SABIOMA aims to develop an integrated approach, taking into account the multifunctionality of landscapes to foster partnerships across sectors to design nature-based solutions that promote biodiversity, increase resilience to climate change and contribute to sustainable livelihoods across the Argentine Pampas and Chaco forest regions"
+    [[Languages.en.params.banner.flipText]]
+        title   = "SUSTAINABILITY"
+    [[Languages.en.params.banner.flipText]]
+        title   = "BIODIVERSITY"
+    [[Languages.en.params.banner.flipText]]
+        title   = "AGRICULTURE"
+    [[Languages.en.params.banner.flipText]]
+        title   = "CLIMATE CHANGE"
+    [[Languages.en.params.banner.flipText]]
+        title   = "RESILIENCE"
+
+    [Languages.es.params.banner]
+        enable  = true
+        bgImage = "images/slider_2.jpg"
+        heading = "SALVAGUARDAR BIODIVERSITY AND CLIMATE RESILIENCE"
+        description = "SABIOMA aims to develop an integrated approach, taking into account the multifunctionality of landscapes to foster partnerships across sectors to design nature-based solutions that promote biodiversity, increase resilience to climate change and contribute to sustainable livelihoods across the Argentine Pampas and Chaco forest regions"
+    [[Languages.es.params.banner.flipText]]
+        title   = "SUSTENIBILIDAD"
+    [[Languages.es.params.banner.flipText]]
+        title   = "BIODIVERSITY"
+    [[Languages.es.params.banner.flipText]]
+        title   = "AGRICULTURA"
+    [[Languages.en.params.banner.flipText]]
+        title   = "CLIMATE CHANGE"
+    [[Languages.en.params.banner.flipText]]
+        title   = "RESILIENCE"
+
+# Homepage About Section
+    [Languages.en.params.about]
+        enable  = true
+        title   = "ABOUT US"
+        content = "SABIOMA is an international partnership between Argentina and the UK, working on nature-based solutions to tackle the challenge of biodiversity loss, climate change and social wellbeing. Our main objectives are to develop knowledge, build capacity and define tangible actions for conservation, restauration and sustainable use of land and the environment. Through our research activities, our consortium focus on providing knowledge to food producers, policy-makers, land managers and the public who need better evidence based tools to support decision making for sustainable outcomes."
+
+    [Languages.es.params.about]
+        enable  = true
+        title   = "SOBRE NOSOTROS"
+        content = "SABIOMA es una colaboración internacional entre Argentina y el Reino Unido, que estudia nature-based solutions to tackle the challenge of biodiversity loss, climate change and social wellbeing. Nuestros principales objetivos son desarrollar conocimiento, generar capacitación y definir acciones tangibles para la conservación, restoración y el manejo sostenible de land and the environment. A través de nuestras actividades de investigación, nuestro consorcio se centra en proporcionar conocimientos a los productores de alimentos, a los responsables de la formulación de políticas de manejo, a los administradores de tierras y al público, que necesitan mejores herramientas basadas en evidencia para apoyar la toma de decisiones necesarias para lograr resultados sostenibles."
+
+# Site Params
+    [Languages.en.params]
+    logo = "images/sabioma_logo.png"
+    logo2 = "images/UKCEH-Logo_Long_Positive_RGB.png"
+    logoT = "images/logos/language-icon128px-black.png"
+    dateFormat = "6 January 2006"
+    # Meta data
+    description = "Airspace Hugo theme"
+    author = "Reto Schmucki"
+    # Google Analitycs
+    # googleAnalitycsID = ""
+
+    [Languages.es.params]
+    logo = "images/sabioma_logo.png"
+    logo2 = "images/UKCEH-Logo_Long_Positive_RGB.png"
+    logoT = "images/logos/language-icon128px-black.png"
+    dateFormat = "6 January 2006"
+    # Meta data
+    description = "Airspace Hugo theme"
+    author = "Reto Schmucki"
+
+# Call Section On Homepage
+#    [Languages.en.params.call]
+#       enable  = true
+#       title   = "Pollination and production of blueberries"
+#       subtitle= ""
+#       btn     = true
+#       btnText = "Video (YouTube)"
+#       btnURL  = "https://youtu.be/hA7UXprlRA4"
+
+#    [Languages.es.params.call]
+#       enable  = true
+#       title   = "Polinización y producción de arándanos"
+#       subtitle= ""
+#       btn     = true
+#       btnText = "Video (YouTube)"
+#       btnURL  = "https://youtu.be/hA7UXprlRA4"
+
+# Homepage Funding Section
+     [params.partners]
+        enable  = true
+        title   = "Funding"
+        subtitle = "UK - Argentina"
+     [[params.partners.partnersLogo]]
+            image = "images/partners/UKRI_NER_Council-Logo.png"
+     [[params.partners.partnersLogo]]
+            image = "images/partners/conicet_scale.png"
