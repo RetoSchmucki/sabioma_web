@@ -114,7 +114,7 @@ DefaultContentLanguage = "en"
 # Banner Section
     [Languages.en.params.banner]
         enable  = true
-        bgImage = "images/slider_2.jpg"
+        bgImage = "images/CHACO_FOREST.jpg"
         heading = "SAFEGUARDING BIODIVERSITY AND CLIMATE RESILIENCE"
         description = "SABIOMA aims to develop an integrated approach, taking into account the multifunctionality of landscapes to foster partnerships across sectors to design nature-based solutions that promote biodiversity, increase resilience to climate change and contribute to sustainable livelihoods across the Argentine Pampas and Chaco forest regions"
     [[Languages.en.params.banner.flipText]]
@@ -130,7 +130,7 @@ DefaultContentLanguage = "en"
 
     [Languages.es.params.banner]
         enable  = true
-        bgImage = "images/slider_2.jpg"
+        bgImage = "images/CHACO_FOREST.jpg"
         heading = "SALVAGUARDAR BIODIVERSITY AND CLIMATE RESILIENCE"
         description = "SABIOMA aims to develop an integrated approach, taking into account the multifunctionality of landscapes to foster partnerships across sectors to design nature-based solutions that promote biodiversity, increase resilience to climate change and contribute to sustainable livelihoods across the Argentine Pampas and Chaco forest regions"
     [[Languages.es.params.banner.flipText]]
