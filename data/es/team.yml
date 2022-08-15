@@ -1,5 +1,5 @@
 enable  : true
-title   : Miembros de SABIOMA en UK
+title   : Miembros de SABIOMA
 members  :
 
   - name  : Reto Schmucki
@@ -14,20 +14,24 @@ members  :
     github: https://github.com/RetoSchmucki
     # publons: https://publons.com/researcher/461487/reto-schmucki/
 
-  - name  : Claire Carvell
-    image : images/team/ClaireCarvell.png
-    designation : Pollination Ecologist (UKCEH)
-    description : Claire works on the ecology, monitoring and conservation of wild bees and other insect pollinators to inform management of agro-ecosystems and enhance invertebrate biodiversity.
-    website : https://www.ceh.ac.uk/staff/claire-carvell
-    twitter : https://twitter.com/Claire_Carvell
+  - name  : Natacha Chacoff
+    image : images/team/natacha_chacoff.png
+    designation : Pollination Ecologist (Instituto de Ecología Regional UNT-CONICET)
+    description : Natacha works on crop pollination and the role of biodiversity, landscape management and configuration on the delivery of pollination services.
+    twitter     : https://twitter.com/ChacoffNatacha
+    researchgate: https://www.researchgate.net/profile/Natacha_Chacoff
+    orcid: 
+    googlescholar: https://scholar.google.com/citations?user=rxJBqGcAAAAJ&hl=fr
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
-  - name  : Ben Woodcock
-    image : images/team/BenWoodcock2.png
-    designation : Ecological Entomologist (UKCEH)
-    description : Ben works on ecosystem service delivery and mechanisms of co-existence in invertebrate communities and trade-offs between plant and invertebrates communities.
-    website : https://www.ceh.ac.uk/staff/ben-woodcock
-    orcid: https://orcid.org/0000-0003-0300-9951
-    googlescholar: https://scholar.google.ca/citations?hl=en&user=u4JXDGEAAAAJ
+
+  - name  : Mariano Devoto
+    image : images/team/mariano_devoto.png
+    designation : Agronomist (Universidad de Buenos Aires)
+    description : Mariano works in community ecology with strong interest in plant-animal interactions, ecological networks, ecosystem services, and agronomy.
+    twitter : https://www.twitter.com/Mariano_Devoto
+    researchgate : https://www.researchgate.net/profile/Mariano_Devoto
+    googlescholar : https://scholar.google.com/citations?hl=en&user=LlmdgDAAAAAJ
 
   - name  : France Gerard
     image : images/team/photoFrance.png
@@ -38,6 +42,57 @@ members  :
     researchgate    : https://www.researchgate.net/profile/France_Gerard
     publons: https://publons.com/researcher/794084/france-gerard/ 
 
+  - name  : Leonardo Galetto
+    image : images/team/leonardo_galleto2.png
+    designation : Ecologist (National University of Cordoba)
+    description : Leonardo works on socio-agroecosystems, with a focused on functional ecology and the interaction between biodiversity and crop production.
+    researchgate: https://www.researchgate.net/profile/Leonardo_Galetto
+    googlescholar : https://scholar.google.com/citations?user=5FmsH3EAAAAJ&hl=en&oi=sra
+    publons: https://publons.com/researcher/1516711/leonardo-galetto/
+    orcid: https://orcid.org/0000-0003-3828-657X
+    
+  - name  : Ben Woodcock
+    image : images/team/BenWoodcock2.png
+    designation : Ecological Entomologist (UKCEH)
+    description : Ben works on ecosystem service delivery and mechanisms of co-existence in invertebrate communities and trade-offs between plant and invertebrates communities.
+    website : https://www.ceh.ac.uk/staff/ben-woodcock
+    orcid: https://orcid.org/0000-0003-0300-9951
+    googlescholar: https://scholar.google.ca/citations?hl=en&user=u4JXDGEAAAAJ
+
+  - name  : Mauricio Nuñez-Regueiro
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Catholic University of Salta-CONICET)
+#    description : Andrés is mainly involved in studying pollination ecology in agricultural systems, and the role of spatial patterns regulating pollination service and crop production.
+#    orcid : https://orcid.org/0000-0002-1986-2458
+#    researchgate : https://www.researchgate.net/profile/Andres-F-Ramirez-Mejia
+#    twitter : https://twitter.com/felipe_arm_
+#    googlescholar : https://scholar.google.com/citations?user=5NIPofoAAAAJ&hl=en 
+#    github : https://github.com/andres-frm
+
+  - name  : Claire Carvell
+    image : images/team/ClaireCarvell.png
+    designation : Pollination Ecologist (UKCEH)
+    description : Claire works on the ecology, monitoring and conservation of wild bees and other insect pollinators to inform management of agro-ecosystems and enhance invertebrate biodiversity.
+    website : https://www.ceh.ac.uk/staff/claire-carvell
+    twitter : https://twitter.com/Claire_Carvell
+
+  - name  : Ignacio Gasparri
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Instituto de Ecología Regional UNT-CONICET)
+#    description : Natacha works on crop pollination and the role of biodiversity, landscape management and configuration on the delivery of pollination services.
+#    twitter     : https://twitter.com/ChacoffNatacha
+#    researchgate: https://www.researchgate.net/profile/Natacha_Chacoff
+#    orcid: 
+#    googlescholar: https://scholar.google.com/citations?user=rxJBqGcAAAAJ&hl=fr
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Alba Gomez Segura
+    image : images/team/anonymous.jpg
+    designation : Ecological Data Scientist (UKCEH)
+#    description : Juliet studies pollination ecology and the conservation of pollinators.
+    website : https://www.ceh.ac.uk/staff/france-gerard
+#    googlescholar : https://scholar.google.co.uk/citations?hl=en&user=HvnIPnsAAAAJ&view_op=list_works&sortby=pubdate
+
   - name  : Dan Morton
     image : images/team/dan_morton2.jpg
     designation : Ecological Remote Sensing Scientist (UKCEH)
@@ -45,18 +100,24 @@ members  :
     #twitter : https://www.twitter.com/SchmuckiReto
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
+  - name : Louise Barwell
+    image: images/team/anonymous.jpg
+    designation: Ecological Modeller (UKCEH)
+#    description: 
+    website : https://www.ceh.ac.uk/staff/louise-barwell
+
   - name  : Tom August
     image : images/team/anonymous.jpg
-    designation : UKCEH
-#    description : 
+    designation : Computational Ecologist (UKCEH)
+    description : Tom works on computer vision, citizen science, open science, drones, acoustics, data viz, software engineering, public engagement
+    website: https://www.ceh.ac.uk/staff/tom-august
 #    twitter : https://twitter.com/JeffOllerton
 #    wordpress : https://jeffollerton.wordpress.com/
 #    researchgate:  https://ww.researchgate.net/profile/Jeff_Ollerton
 #    googlescholar: https://scholar.google.com/citations?hl=fr&user=pGS18ZgAAAAJ
 
-  - name  : Alba Gomez Segura
+  - name : Simon Teagel
     image : images/team/anonymous.jpg
-#    designation : Applied Ecologist(University of Exeter)
-#    description : Juliet studies pollination ecology and the conservation of pollinators.
-#    website : http://www.exeter.ac.uk/esi/people/profile/index.php?web_id=Juliet_Osborne
-#    googlescholar : https://scholar.google.co.uk/citations?hl=en&user=HvnIPnsAAAAJ&view_op=list_works&sortby=pubdate
+    designation : Mechanical Engineer (UKCEH)
+    description: Simon has a keen interest in understanding our surroundings and impact on the environment. Technical Project Manager by trade.
+
