@@ -136,13 +136,13 @@ DefaultContentLanguage = "en"
     [[Languages.es.params.banner.flipText]]
         title   = "SUSTENIBILIDAD"
     [[Languages.es.params.banner.flipText]]
-        title   = "BIODIVERSITY"
+        title   = "BIODIVERSIDAD"
     [[Languages.es.params.banner.flipText]]
         title   = "AGRICULTURA"
     [[Languages.en.params.banner.flipText]]
-        title   = "CLIMATE CHANGE"
+        title   = "CAMBIO CLIMATICO"
     [[Languages.en.params.banner.flipText]]
-        title   = "RESILIENCE"
+        title   = "RESILIENCIA"
 
 # Homepage About Section
     [Languages.en.params.about]
