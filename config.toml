@@ -164,8 +164,8 @@ DefaultContentLanguage = "en"
     # Meta data
     description = "Airspace Hugo theme"
     author = "Reto Schmucki"
-    # Google Analitycs
-    googleAnalitycsID = "G-0D1G2PJ389"
+    # Google Analitycs V4
+    googleAnalitycsID = "G-KSL2EX10S6"
 
     [Languages.es.params]
     logo = "images/sabioma_logo.png"
