@@ -106,11 +106,11 @@ members  :
     website : https://www.ceh.ac.uk/staff/louise-barwell
 
   - name  : Tom August
-    image : images/team/anonymous.jpg
+    image : images/team/tom_august.jpg
     designation : Computational Ecologist (UKCEH)
-    description : Tom works on computer vision, citizen science, open science, drones, acoustics, data viz, software engineering, public engagement
+    description : "Tom explores how new technologies can support research into the natural environment, and nurture people's curiosity about nature. Tom's current focus is on how computer vision can help global-scale, systematic, monitoring of insects."
     website: https://www.ceh.ac.uk/staff/tom-august
-#    twitter : https://twitter.com/JeffOllerton
+    twitter : https://twitter.com/tomaugust85
 #    wordpress : https://jeffollerton.wordpress.com/
 #    researchgate:  https://ww.researchgate.net/profile/Jeff_Ollerton
 #    googlescholar: https://scholar.google.com/citations?hl=fr&user=pGS18ZgAAAAJ
