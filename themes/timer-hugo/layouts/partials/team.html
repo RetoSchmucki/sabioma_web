@@ -83,6 +83,11 @@
                             <i class="ai ai-orcid-square ai-lg"></i>
                         </a>
                         {{ end }}
+                        {{ with .instagram }}
+                        <a href="{{ . }}" target="_blank">
+                            <i class="ion-social-instagram-outline"></i>
+                        </a>
+                        {{ end }}
                         {{ with .github }}
                         <a href="{{ . }}" target="_blank">
                             <i class="ion-social-github-outline"></i>

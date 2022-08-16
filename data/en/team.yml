@@ -59,15 +59,14 @@ members  :
     orcid: https://orcid.org/0000-0003-0300-9951
     googlescholar: https://scholar.google.ca/citations?hl=en&user=u4JXDGEAAAAJ
 
-  - name  : Mauricio Nuñez-Regueiro
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Catholic University of Salta-CONICET)
-#    description : Andrés is mainly involved in studying pollination ecology in agricultural systems, and the role of spatial patterns regulating pollination service and crop production.
-#    orcid : https://orcid.org/0000-0002-1986-2458
-#    researchgate : https://www.researchgate.net/profile/Andres-F-Ramirez-Mejia
-#    twitter : https://twitter.com/felipe_arm_
-#    googlescholar : https://scholar.google.com/citations?user=5NIPofoAAAAJ&hl=en 
-#    github : https://github.com/andres-frm
+  - name  : Mauricio Nuñez Regueiro
+    image : images/team/Mauricio_Nunez_Regueiro_crop.jpg
+    designation : Landscape Ecologist (Catholic University of Salta-CONICET)
+    description : Mauricio is interested in understanding tradeoffs between biodiversity conservation food production systems, mainly cattle ranching, as well as creating strategies to restore functional native ecosystems.
+    orcid : https://orcid.org/0000-0002-6610-9055
+    twitter : https://twitter.com/NunezRegueiroM
+    googlescholar : https://scholar.google.com/citations?user=u6aSJ3wAAAAJ&hl=en
+    instagram: https://www.instagram.com/chacoadentr0/?hl=en
 
   - name  : Claire Carvell
     image : images/team/ClaireCarvell.png
@@ -90,7 +89,7 @@ members  :
     image : images/team/anonymous.jpg
     designation : Ecological Data Scientist (UKCEH)
 #    description : Juliet studies pollination ecology and the conservation of pollinators.
-    website : https://www.ceh.ac.uk/staff/france-gerard
+#    website : https://www.ceh.ac.uk/staff/france-gerard
 #    googlescholar : https://scholar.google.co.uk/citations?hl=en&user=HvnIPnsAAAAJ&view_op=list_works&sortby=pubdate
 
   - name  : Dan Morton
