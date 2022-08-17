@@ -1,29 +1,15 @@
 enable  : true
 title   : SABIOMA partners
 members  :
-
   - name  : Reto Schmucki
     image : images/team/team_reto.png
     designation : Community Ecologist (UKCEH)
     description : Reto works on the impact of global changes on species distribution, plant-insect interactions and the mechanisms that structure biological diversity across scales.
     website : https://www.ceh.ac.uk/staff/reto-schmucki
     twitter : https://www.twitter.com/SchmuckiReto
-    # researchgate: https://www.researchgate.net/profile/Reto_Schmucki
-    # orcid: https://orcid.org/0000-0003-3064-7553
+    orcid: https://orcid.org/0000-0003-3064-7553
     googlescholar: https://scholar.google.ca/citations?user=SVm6CkgAAAAJ&hl=en
     github: https://github.com/RetoSchmucki
-    # publons: https://publons.com/researcher/461487/reto-schmucki/
-
-  - name  : Natacha Chacoff
-    image : images/team/natacha_chacoff.png
-    designation : Pollination Ecologist (Instituto de Ecología Regional UNT-CONICET)
-    description : Natacha works on crop pollination and the role of biodiversity, landscape management and configuration on the delivery of pollination services.
-    twitter     : https://twitter.com/ChacoffNatacha
-    researchgate: https://www.researchgate.net/profile/Natacha_Chacoff
-    orcid: 
-    googlescholar: https://scholar.google.com/citations?user=rxJBqGcAAAAJ&hl=fr
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
-
 
   - name  : Mariano Devoto
     image : images/team/mariano_devoto.png
@@ -33,15 +19,6 @@ members  :
     researchgate : https://www.researchgate.net/profile/Mariano_Devoto
     googlescholar : https://scholar.google.com/citations?hl=en&user=LlmdgDAAAAAJ
 
-  - name  : France Gerard
-    image : images/team/photoFrance.png
-    designation : Earth Observation Scientist (UKCEH)
-    description : France works on the development of remotely sensed-derived data to validate models and inform conservation and sustainable management of natural resources. 
-    website : https://www.ceh.ac.uk/staff/france-gerard
-    linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
-    researchgate    : https://www.researchgate.net/profile/France_Gerard
-    publons: https://publons.com/researcher/794084/france-gerard/ 
-
   - name  : Leonardo Galetto
     image : images/team/leonardo_galleto2.png
     designation : Ecologist (National University of Cordoba)
@@ -50,7 +27,16 @@ members  :
     googlescholar : https://scholar.google.com/citations?user=5FmsH3EAAAAJ&hl=en&oi=sra
     publons: https://publons.com/researcher/1516711/leonardo-galetto/
     orcid: https://orcid.org/0000-0003-3828-657X
-    
+
+  - name  : Natacha Chacoff
+    image : images/team/natacha_chacoff.png
+    designation : Pollination Ecologist (Instituto de Ecología Regional UNT-CONICET)
+    description : Natacha works on crop pollination and the role of biodiversity, landscape management and configuration on the delivery of pollination services.
+    twitter     : https://twitter.com/ChacoffNatacha
+    researchgate: https://www.researchgate.net/profile/Natacha_Chacoff
+    orcid: https://orcid.org/0000-0002-1115-6989
+    googlescholar: https://scholar.google.com/citations?user=rxJBqGcAAAAJ&hl=fr
+
   - name  : Ben Woodcock
     image : images/team/BenWoodcock2.png
     designation : Ecological Entomologist (UKCEH)
@@ -58,6 +44,15 @@ members  :
     website : https://www.ceh.ac.uk/staff/ben-woodcock
     orcid: https://orcid.org/0000-0003-0300-9951
     googlescholar: https://scholar.google.ca/citations?hl=en&user=u4JXDGEAAAAJ
+
+  - name  : Analí Bustos
+    image : images/team/anali_bustos2.jpg
+    designation : Conservation Ecologist (University of Buenos Aires)
+    description : Analí works on ecosystem restoration, plant-pollinator interactions and science outreach
+    twitter : https://twitter.com/bustos_anali
+    researchgate : https://www.researchgate.net/profile/Anali-Bustos
+    linkedIn: https://www.linkedin.com/in/analí-bustos/
+    instagram: https://www.instagram.com/li.bustos/ 
 
   - name  : Mauricio Nuñez Regueiro
     image : images/team/Mauricio_Nunez_Regueiro_crop.jpg
@@ -75,6 +70,15 @@ members  :
     website : https://www.ceh.ac.uk/staff/claire-carvell
     twitter : https://twitter.com/Claire_Carvell
 
+  - name  : France Gerard
+    image : images/team/photoFrance.png
+    designation : Earth Observation Scientist (UKCEH)
+    description : France works on the development of remotely sensed-derived data to validate models and inform conservation and sustainable management of natural resources. 
+    website : https://www.ceh.ac.uk/staff/france-gerard
+    linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
+    researchgate    : https://www.researchgate.net/profile/France_Gerard
+    publons: https://publons.com/researcher/794084/france-gerard/
+
   - name  : Ignacio Gasparri
     image : images/team/anonymous.jpg
     designation : Ecologist (Instituto de Ecología Regional UNT-CONICET)
@@ -89,15 +93,12 @@ members  :
     image : images/team/anonymous.jpg
     designation : Ecological Data Scientist (UKCEH)
 #    description : Juliet studies pollination ecology and the conservation of pollinators.
-#    website : https://www.ceh.ac.uk/staff/france-gerard
-#    googlescholar : https://scholar.google.co.uk/citations?hl=en&user=HvnIPnsAAAAJ&view_op=list_works&sortby=pubdate
+    website : https://www.ceh.ac.uk/staff/france-gerard
 
   - name  : Dan Morton
     image : images/team/dan_morton2.jpg
     designation : Ecological Remote Sensing Scientist (UKCEH)
     description : Dan works on the production and the analysis of large scale satellite derived datasets to improve our capability to monitor and measure the impact of land use change on biodiversity.
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
   - name : Louise Barwell
     image: images/team/anonymous.jpg
@@ -111,9 +112,6 @@ members  :
     description : "Tom explores how new technologies can support research into the natural environment, and nurture people's curiosity about nature. Tom's current focus is on how computer vision can help global-scale, systematic, monitoring of insects."
     website: https://www.ceh.ac.uk/staff/tom-august
     twitter : https://twitter.com/tomaugust85
-#    wordpress : https://jeffollerton.wordpress.com/
-#    researchgate:  https://ww.researchgate.net/profile/Jeff_Ollerton
-#    googlescholar: https://scholar.google.com/citations?hl=fr&user=pGS18ZgAAAAJ
 
   - name : Simon Teagel
     image : images/team/anonymous.jpg
@@ -124,3 +122,4 @@ members  :
     image: images/team/katie_b.jpg
     designation: Biodiversity Science Area Coordinator (UKCEH) 
     description: "Katie works within the Biodiversity Science Area at UKCEH to provide programme coordination and management assistance for projects and logistics. Katie's background is in climate change and environmental sciences."
+    
