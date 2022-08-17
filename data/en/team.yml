@@ -79,15 +79,12 @@ members  :
     researchgate    : https://www.researchgate.net/profile/France_Gerard
     publons: https://publons.com/researcher/794084/france-gerard/
 
-  - name  : Ignacio Gasparri
+  - name  : Nestor Ignacio Gasparri
     image : images/team/anonymous.jpg
     designation : Ecologist (Instituto de Ecología Regional UNT-CONICET)
 #    description : Natacha works on crop pollination and the role of biodiversity, landscape management and configuration on the delivery of pollination services.
-#    twitter     : https://twitter.com/ChacoffNatacha
-#    researchgate: https://www.researchgate.net/profile/Natacha_Chacoff
-#    orcid: 
-#    googlescholar: https://scholar.google.com/citations?user=rxJBqGcAAAAJ&hl=fr
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+    orcid: https://orcid.org/0000-0001-8389-1379
+    googlescholar: https://scholar.google.com/citations?user=32gb7EoAAAAJ&hl=en
 
   - name  : Alba Gomez Segura
     image : images/team/anonymous.jpg
