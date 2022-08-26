@@ -139,9 +139,9 @@ DefaultContentLanguage = "en"
         title   = "BIODIVERSIDAD"
     [[Languages.es.params.banner.flipText]]
         title   = "AGRICULTURA"
-    [[Languages.en.params.banner.flipText]]
+    [[Languages.es.params.banner.flipText]]
         title   = "RESILIENCIA"
-    [[Languages.en.params.banner.flipText]]
+    [[Languages.es.params.banner.flipText]]
         title   = "CAMBIO CLIMATICO"
 
 # Homepage About Section
