@@ -111,10 +111,10 @@ members  :
     website: https://www.ceh.ac.uk/staff/tom-august
     twitter : https://twitter.com/tomaugust85
 
-  - name : Simon Teagel
-    image : images/team/anonymous.jpg
-    designation : Mechanical Engineer (UKCEH)
-    description: Simon has a keen interest in understanding our surroundings and impact on the environment. Technical Project Manager by trade.
+  - name : Simon Teagle
+    image : images/team/simon_teagle.jpg
+    designation : Technical Project Manager (UKCEH)
+    description: Simon helps develop novel sensors and instruments for the science community at UKCEH.
 
   - name: Katie B.
     image: images/team/katie_b.jpg
