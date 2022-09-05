@@ -87,10 +87,10 @@ members  :
     googlescholar: https://scholar.google.com/citations?user=32gb7EoAAAAJ&hl=en
 
   - name  : Alba Gomez Segura
-    image : images/team/anonymous.jpg
+    image : images/team/alba_gomez.jpg
     designation : Ecological Data Scientist (UKCEH)
-#    description : Juliet studies pollination ecology and the conservation of pollinators.
-    website : https://www.ceh.ac.uk/staff/france-gerard
+    description : Alba is interested in understanding biodiversity and how new technologies can assist environmental science. Her work focuses on applying and developing computer vision algorithms for insects monitoring and identification and compare the results with traditional surveys.
+#   website : https://www.ceh.ac.uk/staff/
 
   - name  : Dan Morton
     image : images/team/dan_morton2.jpg
