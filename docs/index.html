@@ -33,6 +33,9 @@
   <!-- template main css file -->
   
   <link rel="stylesheet" href="https://retoschmucki.github.io/sabioma_web/css/style.min.css" integrity="" media="screen">
+  <script defer src="https://unpkg.com/img-comparison-slider@7/dist/index.js"></script>
+  <link rel="stylesheet" href="https://retoschmucki.github.io/sabioma_web/%20css/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/img-comparison-slider@7/dist/styles.css" />
 
   
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KSL2EX10S6"></script>
@@ -200,8 +203,21 @@
                 </div>
             </div>
             <div class="col-sm-6">
-                <div class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
-                    
+                <div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
+                <h2> </h2>
+                <img-comparison-slider>
+                    <figure slot="first" class="before">
+                    <img width="100%" src="https://retoschmucki.github.io/sabioma_web/images/about/granchaco_tmo_2000353_lrg.jpg" />
+                    <figcaption>2000</figcaption>
+                    </figure>
+                    <figure slot="second" class="after">
+                    <img width="100%" src="https://retoschmucki.github.io/sabioma_web/images/about/granchaco_tmo_2019358_lrg.jpg" />
+                    <figcaption>2019</figcaption>
+                    </figure>
+                </img-comparison-slider>
+                <p> A large extent fo the Gran Chaco has been converted to farmland or pasture. Move the sliders from left to right to
+                compare the land cover between the two periods in Northwest Argentina (Salta). 
+                <a href="https://earthobservatory.nasa.gov/images/146731/deforestation-in-argentinas-gran-chaco)">read source - NASA</a></p>
                 </div>
             </div>
         </div>

@@ -10,8 +10,21 @@
                 </div>
             </div>
             <div class="col-sm-6">
-                <div class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
-                    {{ with .Site.Params.about.image }}<img src="{{ . | absURL }}" alt="about-image">{{ end }}
+                <div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
+                <h2> </h2>
+                <img-comparison-slider>
+                    <figure slot="first" class="before">
+                    <img width="100%" src="{{ .Site.Params.about.image1 | absURL}}" />
+                    <figcaption>2000</figcaption>
+                    </figure>
+                    <figure slot="second" class="after">
+                    <img width="100%" src="{{ .Site.Params.about.image2 | absURL}}" />
+                    <figcaption>2019</figcaption>
+                    </figure>
+                </img-comparison-slider>
+                <p> A large extent fo the Gran Chaco has been converted to farmland or pasture. Move the sliders from left to right to
+                compare the land cover between the two periods in Northwest Argentina (Salta). 
+                <a href="https://earthobservatory.nasa.gov/images/146731/deforestation-in-argentinas-gran-chaco)">read source - NASA</a></p>
                 </div>
             </div>
         </div>

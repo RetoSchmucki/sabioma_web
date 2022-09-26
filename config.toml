@@ -149,11 +149,19 @@ DefaultContentLanguage = "en"
         enable  = true
         title   = "ABOUT US"
         content = "SABIOMA is an international partnership between Argentina and the UK, working on nature-based solutions to tackle the challenge of biodiversity loss, climate change and social wellbeing. Our main objectives are to develop knowledge, build capacity and define tangible actions for conservation, restauration and sustainable use of land and the environment. Through our research activities, our consortium focus on providing knowledge to food producers, policy-makers, land managers and the public who need better evidence based tools to support decision making for sustainable outcomes."
+        image1 = "images/about/granchaco_tmo_2000353_lrg.jpg"
+        image2 = "images/about/granchaco_tmo_2019358_lrg.jpg"
+        image1_text = "before"
+        image2_text = "after"
 
     [Languages.es.params.about]
         enable  = true
         title   = "SOBRE NOSOTROS"
         content = "SABIOMA es una colaboración internacional entre Argentina y el Reino Unido, que estudia soluciones basadas en la naturaleza para enfrentar los desafíos de la pérdida de biodiversidad, el cambio climático y el bienestar social. Nuestros principales objetivos son crear conocimiento, desarrollar capacitación y definir acciones concretas para la conservación, la restauración y el manejo sostenible de la tierra y el ambiente. A través de nuestras actividades de investigación, nuestro consorcio se centra en proporcionar conocimientos a los productores de alimentos, a los responsables de la formulación de políticas de manejo, a los administradores de los recursos naturales y al público, para proporcionarles mejores herramientas basadas en evidencia que sustenten la toma de decisiones necesarias para lograr resultados sostenibles."
+        image1 = "images/about/granchaco_tmo_2000353_lrg.jpg"
+        image2 = "images/about/granchaco_tmo_2019358_lrg.jpg"
+        image1_text = "before"
+        image2_text = "after"
 
 # Site Params
     [Languages.en.params]
